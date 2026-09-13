@@ -1,0 +1,9 @@
+html,body{
+  margin: 0%;
+  padding: 0%;
+}
+.Prof{
+  position: fixed;
+  left: 20vw;
+  right: 20vw;
+}

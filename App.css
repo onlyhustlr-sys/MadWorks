@@ -1,0 +1,12 @@
+html,body{
+  display: flex;
+  margin: 0%;
+  padding: 0%;
+  justify-content: center;
+}
+.ti{
+  color: aqua;
+  text-align: center;
+  font-family: cursive;
+  font-size: 7vh;
+}
