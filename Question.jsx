@@ -46,7 +46,7 @@ const Question=()=>{
   },[])
   return(
     <>
-    <Qbox style = {{margin:"20vw"}} question={tgt} a1="good" a2="bad" a3="none" a4="all"/>
+    <Qbox style = {{margin:"20vw"}} question={tgt} a1={} a2={} a3={} a4={}/>
     </>
   )
 }
